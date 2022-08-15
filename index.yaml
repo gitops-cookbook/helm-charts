@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pacman:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-08-15T12:59:17.180339117+02:00"
+    description: A Helm chart for Pacman
+    digest: 860b5cbf6d6a13e9c6a2e75a3992d30ea3aacc39cb2ac361eca8ce246ddbfacb
+    name: pacman
+    type: application
+    urls:
+    - gitops-cookbook.github.io/helm-charts/pacman-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-15T12:59:17.179698788+02:00"
