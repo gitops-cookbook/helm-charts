@@ -9,6 +9,6 @@ entries:
     name: pacman
     type: application
     urls:
-    - gitops-cookbook.github.io/helm-charts/pacman-0.1.0.tgz
+      - https://gitops-cookbook.github.io/helm-charts/pacman-0.1.0.tgz
     version: 0.1.0
 generated: "2022-08-15T12:59:17.179698788+02:00"
